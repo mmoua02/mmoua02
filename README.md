@@ -6,7 +6,7 @@
   - [SOHO Project](https://github.com/mmoua02/SOHO-Network-Design-Project/tree/main)
 - <b>Active Directory Project)</b>
   - [Active Directory](https://github.com/mmoua02/Active-Directory) <b><i></b></i>
-  
+
 
 <h2> 🤳 Connect with me:</h2>
 
